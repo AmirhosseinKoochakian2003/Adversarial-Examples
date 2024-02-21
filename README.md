@@ -5,7 +5,7 @@ MobileNetV2 is a CNN model that can classify images into 1000 object categories.
 
 <div align="center">
 
-| <img src="images/1.png" width="400" height="400"> | <img src="2.png" width="400" height="400"> |
+| <img src="images/1.png" width="400" height="400"> | <img src="images/2.png" width="400" height="400"> |
 |:--:|:--:|
 | *Original image* | *Noisy image* |
 </div>
